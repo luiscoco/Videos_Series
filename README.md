@@ -38,7 +38,19 @@ Angular_RxJS-Sample1: https://github.com/luiscoco/Angular_RxJS-Sample1
 
 AngularAdvance_NgRXDemo: https://github.com/luiscoco/AngularAdvance_NgRXDemo
 
+AngularWithGooglemaps_Sample1-SimpleMap: https://github.com/luiscoco/AngularWithGooglemaps_Sample1-SimpleMap
 
+AngularWithGooglemaps_Sample2-Showing-Pixel-and-Tile-Coordinates: https://github.com/luiscoco/AngularWithGooglemaps_Sample2-Showing-Pixel-and-Tile-Coordinates
+
+AngularWithGooglemaps_Sample3-Geolocation: https://github.com/luiscoco/AngularWithGooglemaps_Sample3-Geolocation
+
+AngularWithGooglemaps_Sample4-Points-Of-Interest: https://github.com/luiscoco/AngularWithGooglemaps_Sample4-Points-Of-Interest
+
+AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position: https://github.com/luiscoco/AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position
+
+AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: https://github.com/luiscoco/AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position
+
+AngularWithGooglemaps_Sample7-Optional-saving-to-database: https://github.com/luiscoco/AngularWithGooglemaps_Sample7-Optional-saving-to-database
 
 
 
