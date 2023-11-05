@@ -1,4 +1,25 @@
 -------------------------------------------------------------------------------------------------
+# 0. FRONT-END technologies
+-------------------------------------------------------------------------------------------------
+
+## Flutter
+
+## Angular
+
+## React
+
+## Vue
+
+## Ionic-Angular
+
+## Ionic-React
+
+## Ionic-Vue 
+
+## MAUI
+
+
+-------------------------------------------------------------------------------------------------
 # 1. Back-End technologies
 -------------------------------------------------------------------------------------------------
 
@@ -45,11 +66,30 @@ Kafka_Csharp_Producer
 
 ## 2.1. AWS
 
+## AWS SDK for .NET
+
+
+
+## AWS Glue
+
+AWS_Glue_Overview
+
+AWS_Glue_CSV_Parquet
+
+
+## AWS EMR
+
+AWS_EMR_Amazon-Elastic-MapReduce
+
+
+
 ## 2.2. Azure
+
+
 
 ## 2.3. Google Cloud Services
 
-
+### Google Cloud SDK for .NET
 
 
 -------------------------------------------------------------------------------------------------
@@ -60,8 +100,14 @@ Kafka_Csharp_Producer
 
 Scala_from_zero_to_hero
 
+## 3.2. DataBricks
 
-## 3.2. Spark with Scala
+DataBricks_Samples
+
+DataBricks_Certificates-Training
+
+
+## 3.3. Spark with Scala
 
 Spark_with_IntelliJ_Community 
 
@@ -77,6 +123,8 @@ Spark_Running_in_Docker_with_bitnami_images
 
 Spark_DataSources_JDBC_PostgreSQL 
 
+## Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
+
 
 ## Spark with .NET
 
@@ -91,74 +139,28 @@ Spark_DataSources_JDBC_PostgreSQL
 
 
 -------------------------------------------------------------------------------------------------
-# Connected Vehicles to cloud platforms
+# 4. Connected Vehicles to cloud platforms
 -------------------------------------------------------------------------------------------------
-
-
-
-
-
-
-
-
-
-
-
-## Connected Vehicles Platforms
-
 
 ## Tesla
 
 TeslaAPI
 
 
-## DataBricks
-
-DataBricks_Samples
-
-DataBricks_Certificates-Training
-
-## AWS Glue
-
-AWS_Glue_Overview
-
-AWS_Glue_CSV_Parquet
-
-
-## AWS EMR
-
-AWS_EMR_Amazon-Elastic-MapReduce
-
-## Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
-
-## 
-
-## AWS SDK for .NET
 
 
 
-## Google Cloud SDK for .NET
 
 
--------------------------------------------------------------------------------------------------
-# FRONT-END technologies
--------------------------------------------------------------------------------------------------
 
-## Flutter
 
-## Angular
 
-## React
 
-## Vue
 
-## Ionic-Angular
 
-## Ionic-React
 
-## Ionic-Vue 
 
-## MAUI
+
 
 
 
