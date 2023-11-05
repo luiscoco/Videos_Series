@@ -81,6 +81,27 @@ AngularCRUD_SuperHeroAPI_withAngularMaterial: https://github.com/luiscoco/Videos
 
 AngularCRUD_SuperHeroAPI: https://github.com/luiscoco/AngularCRUD_SuperHeroAPI
 
+### 1.1.7. Angular Components
+
+AngularComponents_Sample1-Overview: https://github.com/luiscoco/AngularComponents_Sample1-Overview
+
+AngularComponents_Sample2-LifecycleHooks: https://github.com/luiscoco/AngularComponents_Sample2-LifecycleHooks
+
+AngularComponents_Sample3-ViewEncapsulation: https://github.com/luiscoco/AngularComponents_Sample3-ViewEncapsulation
+
+AngularComponents_Sample4-ComponentsInteraction: https://github.com/luiscoco/AngularComponents_Sample4-ComponentsInteraction
+
+AngularComponents_Sample5-Styles: https://github.com/luiscoco/AngularComponents_Sample5-Styles
+
+AngularComponents_Sample6-InputsOutputs: https://github.com/luiscoco/AngularComponents_Sample6-InputsOutputs
+
+AngularComponents_Sample7-ContentProjection: https://github.com/luiscoco/AngularComponents_Sample7-ContentProjection
+
+AngularComponents_Sample8-DynamicComponentLoader: https://github.com/luiscoco/AngularComponents_Sample8-DynamicComponentLoader
+
+AngularComponents_Sample9-Elements: https://github.com/luiscoco/AngularComponents_Sample9-Elements
+
+
 
 ## 1.2. React
 
