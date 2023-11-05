@@ -219,6 +219,14 @@ JavaScript_objects: https://github.com/luiscoco/JavaScript_objects
 
 JavaScript_Introduction: https://github.com/luiscoco/JavaScript_Introduction
 
+JavaScript_Advanced-Examples: https://github.com/luiscoco/JavaScript_Advanced-Examples
+
+JavaScriptWithECMAScript-Sample1: https://github.com/luiscoco/JavaScriptWithECMAScript-Sample1
+
+JavaScriptWithECMAScript-Sample2: https://github.com/luiscoco/JavaScriptWithECMAScript-Sample2
+
+JavaScriptWithCommonJS-Sample1: https://github.com/luiscoco/JavaScriptWithCommonJS-Sample1
+
 
 
 
