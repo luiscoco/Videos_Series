@@ -8,7 +8,19 @@ Angular_GithubActions-Sample1: https://github.com/luiscoco/Angular_GithubActions
 
 Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Getting-Started
 
+Angular_Sample2_Architecture: https://github.com/luiscoco/Angular_Sample2_Architecture
+
 Angular_Sample3_TourOfHeroes-pt1: https://github.com/luiscoco/Angular_Sample3_TourOfHeroes-pt1
+
+Angular_Sample4_TourOfHeroes-pt2: https://github.com/luiscoco/Angular_Sample4_TourOfHeroes-pt2
+
+Angular_Sample5_TourOfHeroestoh-pt3: https://github.com/luiscoco/Angular_Sample5_TourOfHeroestoh-pt3
+
+Angular_Sample6_TourOfHeroes-pt4: https://github.com/luiscoco/Angular_Sample6_TourOfHeroes-pt4
+
+Angular_Sample7_TourOfHeroes-pt5: https://github.com/luiscoco/Angular_Sample7_TourOfHeroes-pt5
+
+
 
 
 ### 1.1.1. Angular Template
