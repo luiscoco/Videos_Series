@@ -264,6 +264,20 @@ JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
 JavaSE_Threads-Sample1: https://github.com/luiscoco/JavaSE_Threads-Sample1
 
+JavaSE_Threads-Sample2: https://github.com/luiscoco/JavaSE_Threads-Sample2
+
+JavaSE_Threads-Sample3: https://github.com/luiscoco/JavaSE_Threads-Sample3
+
+JavaSE_Threads-Sample4: https://github.com/luiscoco/JavaSE_Threads-Sample4
+
+JavaSE_Threads-Sample5: https://github.com/luiscoco/JavaSE_Threads-Sample5
+
+JavaSE_Threads-Sample6: https://github.com/luiscoco/JavaSE_Threads-Sample6
+
+JavaSE_Threads-Sample7: https://github.com/luiscoco/JavaSE_Threads-Sample7
+
+JavaSE_Threads-Sample8: https://github.com/luiscoco/JavaSE_Threads-Sample8
+
 
 
 ### Java Networking
