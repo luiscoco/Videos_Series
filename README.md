@@ -617,25 +617,25 @@ CloudComparison: https://github.com/luiscoco/CloudComparison
 
 ## 3.2. AWS
 
-### AWS SDK for .NET#
+### 3.2.1. AWS SDK for .NET#
 
 AWS_SDK-for-dotNET-Presentation: https://github.com/luiscoco/AWS_SDK-for-dotNET-Presentation
 
-### AWS Glue
+### 3.2.2. AWS Glue
 
 AWS_Glue_Overview: https://github.com/luiscoco/AWS_Glue_Overview
 
 AWS_Glue_CSV_Parquet: https://github.com/luiscoco/AWS_Glue_CSV_Parquet
 
-### AWS EMR
+### 3.2.3. AWS EMR
 
 AWS_EMR_Amazon-Elastic-MapReduce
 
-### AWS_SDK_EC2-for-JavaScript
+### 3.2.4. AWS_SDK_EC2-for-JavaScript
 
 AWS_SDK_EC2-for-JavaScript: https://github.com/luiscoco/AWS_SDK_EC2-for-JavaScript 
 
-### AWS_SDK_S3-for-JavaScript
+### 3.2.5. AWS_SDK_S3-for-JavaScript
 
 AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
