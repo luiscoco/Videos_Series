@@ -643,7 +643,241 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 ### 3.3.1. AZ-104 Azure IT Administrator Certificate
 
+Section 1: Introduction
 
+Important Course Introductions
+
+PDF and Diagrams download
+
+Section 2: Starting with Azure
+
+Azure Free Account
+
+Creating an Azure Free Account
+
+Concepts in Azure
+
+Tour of the Portal
+
+Quick note on Security Defaults
+
+Section 3: Deploy and Manage Azure compute resources
+
+8. We are going to start with the Azure virtual machine service
+
+9. The Virtual Machine Service
+
+10. Lab - Building a Windows virtual machine
+
+11. Connecting to the Virtual Machine
+
+12. Issues connecting to the machine
+
+13. Lab - Installing Internet Information Services
+
+14. Costs Associated with the Virtual Machine
+
+15. Virtual Machine Types
+
+16. Lab - Building a Linux Virtual Machine
+
+17. Lab - Deploying a web server on the Linux virtual machine
+
+18. Lab - Deploying a web server on the Linux virtual machine - Resources
+
+19. Lab - Deploying a Linux machine - SSH keys
+
+20. Note on restrictions for the Azure Free Account
+
+21. Azure Virtual Machine - Disks
+
+22. Lab - Adding data disks
+
+23. What happens when we stop the machine
+
+24. Azure Disks - Server Side Encryption
+
+25. Lab - Azure Key Vault Service
+
+26. Lab - Disk Encrytion Sets
+
+27. Lab - Azure Disk Encryption
+
+28. Quick review on the encryption options
+
+29. Lab - Data Disks Snapshot
+
+30. Azure Shared Disks
+
+31. Custom Script Extensions
+
+32. Lab - Custom Script Extensions
+
+33. Lab - Custom Script Extensions for Linux Virtual Machines
+
+34. Lab - Linux Virtual Machines - Cloud init
+
+35. Virtual Machine - Boot Diagnostics
+
+36. Lab - Virtual Machine - Run command
+
+37. Lab - Virtual Machine - Run command - Resources
+
+38. Confidential Computing and Azure Dedicated Host
+
+39. Note - Redeploying a virtual machine
+
+40. Availability Sets
+
+41. Availability Sets - Review
+
+42. Lab - Availability Sets
+
+43. Lab - Availability Sets - Extra bits
+
+44. Availability Zones
+
+45. Lab - Availability Zones
+
+46. Availability Zones Review
+
+47. Azure virtual machine scale sets
+
+48. Lab - Azure Virtual Machine Scale Sets
+
+49. Azure Virtual Machine Scale Set - Scaling conditions
+
+50. Virtual Machine Scale Sets - More aspects
+
+51. Azure Virtual Machine Scale Sets - Flexible Orchestration Mode
+
+52. Lab - Virtual Machine Scale Sets - Custom Script Extensions
+
+53. Understanding virtual machine images
+
+54. Lab - Creating a specialized image
+
+55. Lab - Using the Specialized image
+
+56. Lab - Generalized VM Image
+
+57. Lab - Using the Generalized VM Image
+
+58. Proximity Placement Groups
+
+59. Note on deployments
+
+60. Introduction onto Azure Web Apps
+
+61. Lab - Azure Web Apps
+
+62. Lab - Making simple changes to the Web App
+
+63. Lab - Publishing a .NET project
+
+64. Installing Visual Studio 2022
+
+65. More on App Service Plans
+
+66. Lab - Azure Web App logging
+
+67. Azure Web Apps - Deployment Slots
+
+68. Lab - Azure Web Apps - Deployment Slots
+
+69. Lab - Auto scaling a web app
+
+70. Azure Web Apps Automatic scaling
+
+71. Azure Web App - Virtual Network Integration
+
+72. Lab - Azure Web App - Azure Virtual Network Integration - Setup
+
+73. Lab - Azure Web App - Azure Virtual Network Integration - Configuration
+
+74. Lab - Azure Web App - Azure Virtual Network Integration - Resources
+
+75. Azure Web App - Custom Domains
+
+76. Azure App Service Backup
+
+77. The need for containers
+
+78. Lab - Deploying Docker on a virtual machine
+
+79. Lab - Running the nginx container on the Linux VM
+
+80. Lab - Deploying Docker on a virtual machine - Practice commands
+
+81. The need for an image registry
+
+82. Lab - Azure Container Registry
+
+83. Containerize an application - Setup
+
+84. Containerize an application - Setup - Resources
+
+85. Containerize an application - Implementation
+
+86. Containerize an application - Implementation - Resources
+
+87. Publishing to the Azure Container Registry
+
+88. Publishing to the Azure Container Registry - Resources
+
+89. Lab - Azure Container Instances
+
+90. Lab - Azure Container Groups
+
+91. Lab - Azure Container Groups - Resources
+
+92. Azure Container Groups - Probes
+
+93. Azure Container Apps
+
+94. Primer on Azure Kubernetes
+
+95. Lab - Deploying an Azure Kubernetes cluster
+
+96. Lab - Deploying our application
+
+97. Lab - Deploying our application - Resources
+
+98. Azure Kubernetes - Configuring networking
+
+99. Azure Kubernetes Upgrade cluster
+
+100. Azure Kubernetes Persistent Storage - Application Setup
+
+101. Azure Kubernetes Persistent Storage - Application Setup - Resources
+
+102. Azure Kubernetes Persistent Storage - Build Image
+
+103. Azure Kubernetes Persistent Storage - Build Image - Resources
+
+104. Azure Kubernetes Persistent Storage - Using Disks
+
+105. Azure Kubernetes Persistent Storage - Using Disks - Resources
+
+106. Azure Kubernetes Persistent Storage - File shares
+
+107. Azure Kubernetes Persistent Storage - File shares - Resources
+
+Section 4: Configure and manage virtual networking
+
+Section 5: Implement and manage storage
+
+Section 6: Manage Azure Identities and Governance
+
+Section 7: Monitor and back up Azure resources
+
+Section 8: Azure PowerShell and Azure CLI
+
+Section 9: Azure Resource Manager Templates
+
+Section 10: Bicep language for deploying resources
+
+Section 11: Practice section
 
 ### 3.3.2. AZ-204 Azure Developer Associate
 
