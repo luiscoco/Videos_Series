@@ -91,6 +91,26 @@ GoF_Csharp-11.Flyweight_pattern: https://github.com/luiscoco/GoF_Csharp-11.Flywe
 
 GoF_Csharp-12.Proxy_Pattern: https://github.com/luiscoco/GoF_Csharp-12.Proxy_Pattern
 
+GoF_Csharp-13.Chain_of_Responsibility_pattern: https://github.com/luiscoco/GoF_Csharp-13.Chain_of_Responsibility_pattern
+
+GoF_Csharp-14.Command_pattern: https://github.com/luiscoco/GoF_Csharp-14.Command_pattern
+
+GoF_Csharp-15.Interpreter_pattern: https://github.com/luiscoco/GoF_Csharp-15.Interpreter_pattern
+
+GoF_Csharp-16.Iterator_pattern: https://github.com/luiscoco/GoF_Csharp-16.Iterator_pattern
+
+GoF_Csharp-17.Mediator_pattern: https://github.com/luiscoco/GoF_Csharp-17.Mediator_pattern
+
+GoF_Csharp-18.Memento-pattern: https://github.com/luiscoco/GoF_Csharp-18.Memento-pattern
+
+GoF_Csharp-19.Observer_pattern: https://github.com/luiscoco/GoF_Csharp-19.Observer_pattern
+
+GoF_Csharp-20.State_pattern: https://github.com/luiscoco/GoF_Csharp-20.State_pattern
+
+
+
+
+
 
 ## 1.4. Java
 
