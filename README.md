@@ -89,6 +89,30 @@ AWS_EMR_Amazon-Elastic-MapReduce
 ## Google Cloud SDK for .NET
 
 
+-------------------------------------------------------------------------------------------------
+# FRONT-END technologies
+-------------------------------------------------------------------------------------------------
+
+## Flutter
+
+## Angular
+
+## React
+
+## Vue
+
+## Ionic-Angular
+
+## Ionic-React
+
+## Ionic-Vue 
+
+## MAUI
+
+
+
+
+
 
 
 
