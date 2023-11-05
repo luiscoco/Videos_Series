@@ -53,6 +53,20 @@
 
 Design-Patterns: https://github.com/luiscoco/Design-Patterns
 
+Design Patterns in C# and .NET: https://github.com/luiscoco/Design-Patterns/tree/main/src/csharp
+
+Design Patterns in Modern C++: https://github.com/luiscoco/Design-Patterns/tree/main/src/cpp
+
+Design Patterns in Go: https://github.com/luiscoco/Design-Patterns/tree/main/src/go
+
+Design Patterns in Java: https://github.com/luiscoco/Design-Patterns/tree/main/src/java
+
+Design Patterns in JavaScript: https://github.com/luiscoco/Design-Patterns/tree/main/src/js
+
+Design Patterns in Python: https://github.com/luiscoco/Design-Patterns/tree/main/src/python
+
+Design Patterns in Swift: https://github.com/luiscoco/Design-Patterns/tree/main/src/swift
+
 
 ## 1.4. Java
 
