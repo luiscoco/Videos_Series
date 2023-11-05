@@ -2,10 +2,30 @@
 # 0. FRONT-END technologies
 -------------------------------------------------------------------------------------------------
 
-## Flutter
-
-
 ## Angular
+
+Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Getting-Started
+
+
+
+AngularDirectives_Sample1-BuiltInDirectives: https://github.com/luiscoco/AngularDirectives_Sample1-BuiltInDirectives
+
+AngularDirectives_Sample2-AttributeDirectives: https://github.com/luiscoco/AngularDirectives_Sample2-AttributeDirectives
+
+AngularDirectives_Sample3-StructuralDirectives: https://github.com/luiscoco/AngularDirectives_Sample3-StructuralDirectives
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ## React
@@ -21,6 +41,11 @@
 
 
 ## Ionic-Vue 
+
+
+
+## Flutter
+
 
 
 ## MAUI
@@ -391,6 +416,12 @@ Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
 -------------------------------------------------------------------------------------------------
 # 2. Cloud technologies
 -------------------------------------------------------------------------------------------------
+
+## 2.0. Cloud comparison
+
+CloudComparison: https://github.com/luiscoco/CloudComparison
+
+
 
 ## 2.1. AWS
 
