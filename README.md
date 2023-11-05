@@ -149,6 +149,7 @@ https://github.com/bezkoder/angular-16-crud-example
 
 ## 1.3. Vue
 
+Curso de Vue 3 Profesional: https://www.youtube.com/playlist?list=PLDllzmccetSNgykILXnHMeuO-y-gRcF-i
 
 ## 1.4. Ionic-Angular
 
