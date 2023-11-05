@@ -1020,38 +1020,6 @@ Apache Spark Streaming 3 with Scala | Rock the JVM: https://www.udemy.com/course
 .NET-for-Apache-Spark_Sample2: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample2
 
 -------------------------------------------------------------------------------------------------
-# 5. Connected Vehicles to cloud platforms
--------------------------------------------------------------------------------------------------
-
-## 5.1. Tesla
-
-TeslaAPI: https://github.com/luiscoco/TeslaAPI
-
-Tesla_API_LCE_v1: https://github.com/luiscoco/Tesla_API_LCE_v1
-
-Tesla_API_LCE_v2: https://github.com/luiscoco/Tesla_API_LCE_v2
-
-Tesla_API_LCE_v3: https://github.com/luiscoco/Tesla_API_LCE_v3
-
-Tesla_API_LCE_v4: https://github.com/luiscoco/Tesla_API_LCE_v4
-
-AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position: 
-
-https://github.com/luiscoco/AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position
-
-AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: 
-
-https://github.com/luiscoco/AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position
-
-Tesla_Commands_console_app: 
-
-https://github.com/luiscoco/Tesla_Commands_console_app
-
-Tesla_GetVehicleDataAsync_console_app: 
-
-https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
-
--------------------------------------------------------------------------------------------------
 # 5. DevOps
 -------------------------------------------------------------------------------------------------
 
@@ -1094,6 +1062,36 @@ https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
 ## 5.10. TeamCity
 
 
+-------------------------------------------------------------------------------------------------
+# 6. Connected Vehicles to cloud platforms
+-------------------------------------------------------------------------------------------------
 
+## 6.1. Tesla
+
+TeslaAPI: https://github.com/luiscoco/TeslaAPI
+
+Tesla_API_LCE_v1: https://github.com/luiscoco/Tesla_API_LCE_v1
+
+Tesla_API_LCE_v2: https://github.com/luiscoco/Tesla_API_LCE_v2
+
+Tesla_API_LCE_v3: https://github.com/luiscoco/Tesla_API_LCE_v3
+
+Tesla_API_LCE_v4: https://github.com/luiscoco/Tesla_API_LCE_v4
+
+AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position: 
+
+https://github.com/luiscoco/AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position
+
+AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: 
+
+https://github.com/luiscoco/AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position
+
+Tesla_Commands_console_app: 
+
+https://github.com/luiscoco/Tesla_Commands_console_app
+
+Tesla_GetVehicleDataAsync_console_app: 
+
+https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
 
 
