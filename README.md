@@ -20,8 +20,21 @@ Angular_Sample6_TourOfHeroes-pt4: https://github.com/luiscoco/Angular_Sample6_To
 
 Angular_Sample7_TourOfHeroes-pt5: https://github.com/luiscoco/Angular_Sample7_TourOfHeroes-pt5
 
+Angular_Sample8_TourOfHeroes-pt6: https://github.com/luiscoco/Angular_Sample8_TourOfHeroes-pt6
 
+Angular_Sample9_Templates-Accessibility: https://github.com/luiscoco/Angular_Sample9_Templates-Accessibility
 
+Angular_Sample10_Templates-Animations: https://github.com/luiscoco/Angular_Sample10_Templates-Animations
+
+Angular_Sample13_Templates-Binding-Syntax: https://github.com/luiscoco/Angular_Sample13_Templates-Binding-Syntax
+
+Angular_Sample15_Templates-Built-in-Template-Functions: https://github.com/luiscoco/Angular_Sample15_Templates-Built-in-Template-Functions
+
+Angular_Sample16_Templates-Content-Projection: https://github.com/luiscoco/Angular_Sample16_Templates-Content-Projection
+
+Angular_Sample18_Template-Expression-Operators: https://github.com/luiscoco/Angular_Sample18_Template-Expression-Operators
+
+Angular_Sample20_Templates-ngcontainer: https://github.com/luiscoco/Angular_Sample20_Templates-ngcontainer
 
 ### 1.1.1. Angular Template
 
