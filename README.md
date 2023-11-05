@@ -67,6 +67,30 @@ Design Patterns in Python: https://github.com/luiscoco/Design-Patterns/tree/main
 
 Design Patterns in Swift: https://github.com/luiscoco/Design-Patterns/tree/main/src/swift
 
+GoF_Csharp-1.Singleton_pattern: https://github.com/luiscoco/GoF_Csharp-1.Singleton_pattern
+
+GoF_Csharp-2.Factory_Method_Pattern: https://github.com/luiscoco/GoF_Csharp-2.Factory_Method_Pattern
+
+GoF_Csharp-3.Abstract-Factory-Pattern: https://github.com/luiscoco/GoF_Csharp-3.Abstract-Factory-Pattern
+
+GoF_Csharp-4.Prototype_Pattern: https://github.com/luiscoco/GoF_Csharp-4.Prototype_Pattern
+
+GoF_Csharp-5.Builder_Pattern: https://github.com/luiscoco/GoF_Csharp-5.Builder_Pattern
+
+GoF_Csharp-6.Adapter_Pattern: https://github.com/luiscoco/GoF_Csharp-6.Adapter_Pattern
+
+GoF_Csharp-7.Bridge_Pattern: https://github.com/luiscoco/GoF_Csharp-7.Bridge_Pattern
+
+GoF_Csharp-8.Composite_Pattern: https://github.com/luiscoco/GoF_Csharp-8.Composite_Pattern
+
+GoF_Csharp-9.Decorator_Pattern: https://github.com/luiscoco/GoF_Csharp-9.Decorator_Pattern
+
+GoF_Csharp-10.Facade_Pattern: https://github.com/luiscoco/GoF_Csharp-10.Facade_Pattern
+
+GoF_Csharp-11.Flyweight_pattern: https://github.com/luiscoco/GoF_Csharp-11.Flyweight_pattern
+
+GoF_Csharp-12.Proxy_Pattern: https://github.com/luiscoco/GoF_Csharp-12.Proxy_Pattern
+
 
 ## 1.4. Java
 
