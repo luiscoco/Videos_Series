@@ -37,6 +37,12 @@ Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
 
 JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
 
+JavaSE_IntelliJ_plugins: https://github.com/luiscoco/JavaSE_IntelliJ_plugins
+
+JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17: https://github.com/luiscoco/JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17: 
+
+Udemy_Java21_Java17_Java11_and_Advanced_Java8: https://github.com/luiscoco/Udemy_Java21_Java17_Java11_and_Advanced_Java8
+
 JavaSE-1.Variables: https://github.com/luiscoco/JavaSE-1.Variables
 
 JavaSE-2.DataTypesConversion: https://github.com/luiscoco/JavaSE-2.DataTypesConversion
@@ -87,8 +93,13 @@ JavaSE-24.NestedClases: https://github.com/luiscoco/JavaSE-24.NestedClases
 
 JavaSE-25.Enumerators: https://github.com/luiscoco/JavaSE-25.Enumerators
 
+JavaSE-26.OneDimensionArrays: https://github.com/luiscoco/JavaSE-26.OneDimensionArrays
 
+JavaSE-27.MultidimensionalArrays: https://github.com/luiscoco/JavaSE-27.MultidimensionalArrays
 
+JavaSE-29.IterableAndCollections: https://github.com/luiscoco/JavaSE-29.IterableAndCollections
+
+JavaSE-30.Lists: https://github.com/luiscoco/JavaSE-30.Lists
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
@@ -138,6 +149,14 @@ AWS_Glue_CSV_Parquet
 ## AWS EMR
 
 AWS_EMR_Amazon-Elastic-MapReduce
+
+## AWS_SDK_EC2-for-JavaScript
+
+AWS_SDK_EC2-for-JavaScript: https://github.com/luiscoco/AWS_SDK_EC2-for-JavaScript 
+
+## AWS_SDK_S3-for-JavaScript
+
+AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 
 
