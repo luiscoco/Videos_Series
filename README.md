@@ -33,7 +33,9 @@
 
 ## 1.3. Java
 
-Java_Maven_Sample in VSCode
+Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
+
+JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
 
 
 ## 1.4. C#
