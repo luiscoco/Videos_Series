@@ -73,6 +73,14 @@ AngularMaterial_Sample2-Cards: https://github.com/luiscoco/AngularMaterial_Sampl
 
 AngularMaterial_Sample3-Dialog: https://github.com/luiscoco/AngularMaterial_Sample3-Dialog
 
+## AngularCRUD
+
+AngularCRUD_with-JSON-Server: https://github.com/luiscoco/AngularCRUD_with-JSON-Server
+
+AngularCRUD_SuperHeroAPI_withAngularMaterial: https://github.com/luiscoco/Videos_Series/edit/main/README.md
+
+AngularCRUD_SuperHeroAPI: https://github.com/luiscoco/AngularCRUD_SuperHeroAPI
+
 ## React
 
 
