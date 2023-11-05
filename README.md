@@ -355,17 +355,17 @@ AWSAmazonMQ-RabbitMQ: https://github.com/luiscoco/AWSAmazonMQ-RabbitMQ
 
 ## 1.7. Kafka with Java
 
-Kafka_Java_Training
+Kafka_Java_Training: https://github.com/luiscoco/Kafka_Java_Training
 
-Kafka_Java_Consumer_Serialize_message_to_JSON
+Kafka_Java_Consumer_Serialize_message_to_JSON: https://github.com/luiscoco/Kafka_Java_Consumer_Serialize_message_to_JSON
 
-Kafka_Java_Producer_Serialize_message_to_JSON
+Kafka_Java_Producer_Serialize_message_to_JSON: https://github.com/luiscoco/Kafka_Java_Producer_Serialize_message_to_JSON
 
 ## 1.8. Kafka with .NET C#
 
-Kafka_Csharp_Consumer
+Kafka_Csharp_Consumer: https://github.com/luiscoco/Kafka_Csharp_Consumer
 
-Kafka_Csharp_Producer
+Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
 
 
 -------------------------------------------------------------------------------------------------
