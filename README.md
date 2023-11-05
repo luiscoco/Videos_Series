@@ -168,6 +168,8 @@ JavaSE-15.StaticMethods: https://github.com/luiscoco/JavaSE-15.StaticMethods
 
 JavaSE-16.Classes: https://github.com/luiscoco/JavaSE-16.Classes
 
+JavaSE_Sample-Inner-and-Outer-classes: https://github.com/luiscoco/JavaSE_Sample-Inner-and-Outer-classes/tree/main
+
 JavaSE-17.Constructors: https://github.com/luiscoco/JavaSE-17.Constructors
 
 JavaSE-18.ClassAccessModifiers: https://github.com/luiscoco/JavaSE-18.ClassAccessModifiers
@@ -238,11 +240,19 @@ JavaSE-51.Serialization: https://github.com/luiscoco/JavaSE-51.Serialization
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
+### Java Samples
+
+JavaSE-Sample1: https://github.com/luiscoco/JavaSE-Sample1
+
+JavaSE_Sample2-VSCode-JDK-17: https://github.com/luiscoco/JavaSE_Sample2-VSCode-JDK-17
+
+JavaSE_Exercise8_solution_including_github_actions: https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions
 
 JavaSE_Calculator: https://github.com/luiscoco/JavaSE_Calculator
 
 JavaSE_JUnit-Test-demo1: https://github.com/luiscoco/JavaSE_JUnit-Test-demo1
 
+### Java Networking
 
 JavaSE-Networking-URL-Connections-and-Input-Stream-Reader: https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/tree/master
 
