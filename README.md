@@ -4,6 +4,8 @@
 
 ## Angular
 
+Angular_GithubActions-Sample1: https://github.com/luiscoco/Angular_GithubActions-Sample1
+
 Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Getting-Started
 
 Angular_Sample3_TourOfHeroes-pt1: https://github.com/luiscoco/Angular_Sample3_TourOfHeroes-pt1
@@ -59,7 +61,9 @@ AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: https://github.com/lui
 
 AngularWithGooglemaps_Sample7-Optional-saving-to-database: https://github.com/luiscoco/AngularWithGooglemaps_Sample7-Optional-saving-to-database
 
-### Angular 
+### Angular Signals
+
+Angular_Signals-Sample: https://github.com/luiscoco/Angular_Signals-Sample
 
 
 
