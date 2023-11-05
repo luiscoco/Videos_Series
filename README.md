@@ -235,7 +235,11 @@ JavaScript_Introduction: https://github.com/luiscoco/JavaScript_Introduction
 
 ## 1.11. TypeScript
 
+Typescript-main-repo: https://github.com/luiscoco/Typescript-main-repo
 
+Typescript-setup: https://github.com/luiscoco/Typescript-setup
+
+Typescript_dynamic-types_interfaces: https://github.com/luiscoco/Typescript_dynamic-types_interfaces
 
 
 -------------------------------------------------------------------------------------------------
