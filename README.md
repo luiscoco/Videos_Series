@@ -4,19 +4,38 @@
 
 ## Flutter
 
+
 ## Angular
+
 
 ## React
 
+
 ## Vue
+
 
 ## Ionic-Angular
 
+
 ## Ionic-React
+
 
 ## Ionic-Vue 
 
+
 ## MAUI
+
+
+## JavaScript
+
+
+
+## JQuery
+
+
+## TypeScript
+
+
 
 
 -------------------------------------------------------------------------------------------------
@@ -30,8 +49,12 @@
 ## 1.2. Oracle SQL Developer
 
 
+## 1.3. Design Patterns
 
-## 1.3. Java
+Design-Patterns: https://github.com/luiscoco/Design-Patterns
+
+
+## 1.4. Java
 
 Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
 
@@ -147,14 +170,16 @@ JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
 
 
-## 1.4. C#
+## 1.5. C#
+
+
+
+## 1.6. RabbitMQ 
 
 
 
 
-## Kafka with Java
-
-
+## 1.7. Kafka with Java
 
 Kafka_Java_Training
 
@@ -162,9 +187,7 @@ Kafka_Java_Consumer_Serialize_message_to_JSON
 
 Kafka_Java_Producer_Serialize_message_to_JSON
 
-
-
-## Kafka with .NET C#
+## 1.8. Kafka with .NET C#
 
 Kafka_Csharp_Consumer
 
