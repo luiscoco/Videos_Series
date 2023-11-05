@@ -146,6 +146,31 @@ https://github.com/bezkoder/angular-16-crud-example
 
 ## 1.2. React
 
+Full Stack React Bootcamp with .NET API [2023] [10 Projects]: https://www.udemy.com/course/full-stack-react-bootcamp-with-net-api/
+
+Full Stack React Bootcamp with .NET API [2023] [10 Projects]: https://dotnetmastery.com/Home/Details?courseId=29
+
+https://github.com/bhrugen/react_taskopedia
+
+https://github.com/bhrugen/react_countopedia
+
+https://github.com/bhrugen/react_contactopedia
+
+https://github.com/bhrugen/react_cyclopedia
+
+https://github.com/bhrugen/react_watchopedia
+
+https://github.com/bhrugen/react_routeopedia
+
+https://github.com/bhrugen/react_projectopedia
+
+https://github.com/bhrugen/react_reduxopedia
+
+https://github.com/bhrugen/react_travelopedia
+
+https://github.com/bhrugen/react_RedMango_API
+
+https://github.com/bhrugen/react_redMango
 
 ## 1.3. Vue
 
