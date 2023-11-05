@@ -57,6 +57,16 @@ JavaSE-9.If_TernaryOperator: https://github.com/luiscoco/JavaSE-9.If_TernaryOper
 
 JavaSE-10.Switch: https://github.com/luiscoco/JavaSE-10.Switch
 
+JavaSE-11.Loops: https://github.com/luiscoco/JavaSE-11.Loops
+
+JavaSE-12.Break_Continue: https://github.com/luiscoco/JavaSE-12.Break_Continue
+
+JavaSE-13.Methods_Overloading: https://github.com/luiscoco/JavaSE-13.Methods_Overloading
+
+JavaSE-14.Passing_primitives_or_objects: https://github.com/luiscoco/JavaSE-14.Passing_primitives_or_objects
+
+JavaSE-15.StaticMethods: https://github.com/luiscoco/JavaSE-15.StaticMethods
+
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
