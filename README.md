@@ -37,6 +37,30 @@ Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
 
 JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
 
+JavaSE-1.Variables: https://github.com/luiscoco/JavaSE-1.Variables
+
+JavaSE-2.DataTypesConversion: https://github.com/luiscoco/JavaSE-2.DataTypesConversion
+
+JavaSE-3.ObjectTypes: https://github.com/luiscoco/JavaSE-3.ObjectTypes
+
+JavaSE-4.ObjectsLifeCycle: https://github.com/luiscoco/JavaSE-4.ObjectsLifeCycle
+
+JavaSE-5.WrapperClasses: https://github.com/luiscoco/JavaSE-5.WrapperClasses
+
+JavaSE-6.TypesInference: https://github.com/luiscoco/JavaSE-6.TypesInference
+
+JavaSE-7.Operators: https://github.com/luiscoco/JavaSE-7.Operators
+
+JavaSE-8.ObjectsComparison: https://github.com/luiscoco/JavaSE-8.ObjectsComparison
+
+JavaSE-9.If_TernaryOperator: https://github.com/luiscoco/JavaSE-9.If_TernaryOperator
+
+JavaSE-10.Switch: https://github.com/luiscoco/JavaSE-10.Switch
+
+
+JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
+
+
 
 ## 1.4. C#
 
