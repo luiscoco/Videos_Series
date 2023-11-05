@@ -376,13 +376,13 @@ Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
 
 ## AWS SDK for .NET
 
-
+AWS_SDK-for-dotNET-Presentation: https://github.com/luiscoco/AWS_SDK-for-dotNET-Presentation
 
 ## AWS Glue
 
-AWS_Glue_Overview
+AWS_Glue_Overview: https://github.com/luiscoco/AWS_Glue_Overview
 
-AWS_Glue_CSV_Parquet
+AWS_Glue_CSV_Parquet: https://github.com/luiscoco/AWS_Glue_CSV_Parquet
 
 
 ## AWS EMR
