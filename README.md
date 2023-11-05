@@ -421,7 +421,7 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 ## 2.2. Azure
 
-### 2.2.1.AZ-104 Azure IT Administrator Certificate
+### 2.2.1. AZ-104 Azure IT Administrator Certificate
 
 
 
