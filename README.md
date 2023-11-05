@@ -120,9 +120,15 @@ GoF_Csharp-23.Visitor_pattern: https://github.com/luiscoco/GoF_Csharp-23.Visitor
 
 ## 1.4. Java
 
+JavaSE_Sample2-VSCode-JDK-17: https://github.com/luiscoco/JavaSE_Sample2-VSCode-JDK-17
+
+JavaSE_Sample4-with-IntelliJ-IDE: https://github.com/luiscoco/JavaSE_Sample4-with-IntelliJ-IDE
+
 Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
 
 JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
+
+JavaSE_Sample3-CreateProjectWithEclipse: https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse
 
 JavaSE_IntelliJ_plugins: https://github.com/luiscoco/JavaSE_IntelliJ_plugins
 
