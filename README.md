@@ -41,6 +41,11 @@ Spark_DataSources_JDBC_PostgreSQL
 .NET-for-Apache-Spark_Sample2
 
 
+## Scala
+
+Scala_from_zero_to_hero
+
+
 
 
 ## Java
