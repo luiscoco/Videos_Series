@@ -126,15 +126,33 @@ JavaSE_Sample4-with-IntelliJ-IDE: https://github.com/luiscoco/JavaSE_Sample4-wit
 
 Java_Maven_Sample in VSCode: https://github.com/luiscoco/Java_Maven_Sample
 
-JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
-
-JavaSE_Sample3-CreateProjectWithEclipse: https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse
-
 JavaSE_IntelliJ_plugins: https://github.com/luiscoco/JavaSE_IntelliJ_plugins
 
 JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17: https://github.com/luiscoco/JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17: 
 
 Udemy_Java21_Java17_Java11_and_Advanced_Java8: https://github.com/luiscoco/Udemy_Java21_Java17_Java11_and_Advanced_Java8
+
+### Java Samples
+
+JavaSE-Sample1: https://github.com/luiscoco/JavaSE-Sample1
+
+JavaSE_Sample2-VSCode-JDK-17: https://github.com/luiscoco/JavaSE_Sample2-VSCode-JDK-17
+
+JavaSE_Sample3-CreateProjectWithEclipse: https://github.com/luiscoco/JavaSE_Sample3-CreateProjectWithEclipse
+
+JavaSE_Sample4-with-IntelliJ-IDE: https://github.com/luiscoco/JavaSE_Sample4-with-IntelliJ-IDE
+
+JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode: https://github.com/luiscoco/JavaSE-Sample5-New-Java-project-with-Maven-in-VSCode
+
+JavaSE_Sample6-Upload-Java-project-to-Github: https://github.com/luiscoco/JavaSE_Sample6-Upload-Java-project-to-Github
+
+JavaSE_Exercise8_solution_including_github_actions: https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions
+
+JavaSE_Calculator: https://github.com/luiscoco/JavaSE_Calculator
+
+JavaSE_JUnit-Test-demo1: https://github.com/luiscoco/JavaSE_JUnit-Test-demo1
+
+### Java Training
 
 JavaSE-1.Variables: https://github.com/luiscoco/JavaSE-1.Variables
 
@@ -239,18 +257,6 @@ JavaSE-50.java.nio: https://github.com/luiscoco/JavaSE-50.java.nio
 JavaSE-51.Serialization: https://github.com/luiscoco/JavaSE-51.Serialization
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
-
-### Java Samples
-
-JavaSE-Sample1: https://github.com/luiscoco/JavaSE-Sample1
-
-JavaSE_Sample2-VSCode-JDK-17: https://github.com/luiscoco/JavaSE_Sample2-VSCode-JDK-17
-
-JavaSE_Exercise8_solution_including_github_actions: https://github.com/luiscoco/JavaSE_Exercise8_solution_including_github_actions
-
-JavaSE_Calculator: https://github.com/luiscoco/JavaSE_Calculator
-
-JavaSE_JUnit-Test-demo1: https://github.com/luiscoco/JavaSE_JUnit-Test-demo1
 
 ### Java Networking
 
