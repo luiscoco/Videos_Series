@@ -421,12 +421,24 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 ## 2.2. Azure
 
+### 2.2.1.AZ-104 Azure IT Administrator Certificate
+
+
+
+### 2.2.2. AZ-204 Azure Developer Associate
+
+
+
+### 2.2.3. AZ-305 Azure Solutions Architect
+
+
 
 
 ## 2.3. Google Cloud Services
 
 ### Google Cloud SDK for .NET
 
+GoogleCloud_SDK_for_dotNET: https://github.com/luiscoco/GoogleCloud_SDK_for_dotNET
 
 -------------------------------------------------------------------------------------------------
 # 3. Big data technologies
