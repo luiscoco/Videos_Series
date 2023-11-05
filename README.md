@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------------------------
-# 0. FRONT-END technologies
+# 1. FRONT-END technologies
 -------------------------------------------------------------------------------------------------
 
-## Angular
+## 1.1. Angular
 
 Angular_GithubActions-Sample1: https://github.com/luiscoco/Angular_GithubActions-Sample1
 
@@ -11,7 +11,7 @@ Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Get
 Angular_Sample3_TourOfHeroes-pt1: https://github.com/luiscoco/Angular_Sample3_TourOfHeroes-pt1
 
 
-### Angular Template
+### 1.1.1. Angular Template
 
 AngularTemplate_Sample1-Syntax: https://github.com/luiscoco/AngularTemplate_Sample1-Syntax
 
@@ -31,7 +31,7 @@ AngularTemplate_Sample9_TemplateReferenceVariables: https://github.com/luiscoco/
 
 AngularTemplate_Sample10-SummaryTemplateSyntax: https://github.com/luiscoco/AngularTemplate_Sample10-SummaryTemplateSyntax
 
-### Angular Directives
+### 1.1.2. Angular Directives
 
 AngularDirectives_Sample1-BuiltInDirectives: https://github.com/luiscoco/AngularDirectives_Sample1-BuiltInDirectives
 
@@ -39,13 +39,13 @@ AngularDirectives_Sample2-AttributeDirectives: https://github.com/luiscoco/Angul
 
 AngularDirectives_Sample3-StructuralDirectives: https://github.com/luiscoco/AngularDirectives_Sample3-StructuralDirectives
 
-### Angular Reactive
+### 1.1.2. Angular Reactive
 
 Angular_RxJS-Sample1: https://github.com/luiscoco/Angular_RxJS-Sample1
 
 AngularAdvance_NgRXDemo: https://github.com/luiscoco/AngularAdvance_NgRXDemo
 
-### Angular Google Maps
+### 1.1.3. Angular Google Maps
 
 AngularWithGooglemaps_Sample1-SimpleMap: https://github.com/luiscoco/AngularWithGooglemaps_Sample1-SimpleMap
 
@@ -61,11 +61,11 @@ AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: https://github.com/lui
 
 AngularWithGooglemaps_Sample7-Optional-saving-to-database: https://github.com/luiscoco/AngularWithGooglemaps_Sample7-Optional-saving-to-database
 
-### Angular Signals
+### 1.1.4. Angular Signals
 
 Angular_Signals-Sample: https://github.com/luiscoco/Angular_Signals-Sample
 
-### Angular Material
+### 1.1.5. Angular Material
 
 AngularMaterial_Sample1-Chips: https://github.com/luiscoco/AngularMaterial_Sample1-Chips
 
@@ -73,7 +73,7 @@ AngularMaterial_Sample2-Cards: https://github.com/luiscoco/AngularMaterial_Sampl
 
 AngularMaterial_Sample3-Dialog: https://github.com/luiscoco/AngularMaterial_Sample3-Dialog
 
-### AngularCRUD
+### 1.1.6. AngularCRUD
 
 AngularCRUD_with-JSON-Server: https://github.com/luiscoco/AngularCRUD_with-JSON-Server
 
@@ -81,53 +81,53 @@ AngularCRUD_SuperHeroAPI_withAngularMaterial: https://github.com/luiscoco/Videos
 
 AngularCRUD_SuperHeroAPI: https://github.com/luiscoco/AngularCRUD_SuperHeroAPI
 
-## React
+
+## 1.2. React
 
 
-## Vue
+## 1.3. Vue
 
 
-## Ionic-Angular
+## 1.4. Ionic-Angular
 
 
-## Ionic-React
+## 1.5. Ionic-React
 
 
-## Ionic-Vue 
+## 1.6. Ionic-Vue 
 
 
-
-## Flutter
-
+## 1.7. Flutter
 
 
-## MAUI
+## 1.8. MAUI
 
 
-## JavaScript
+## 1.9. JavaScript
 
 
 
-## JQuery
+## 1.10. JQuery
 
 
-## TypeScript
+
+## 1.11. TypeScript
 
 
 
 
 -------------------------------------------------------------------------------------------------
-# 1. Back-End technologies
+# 2. Back-End technologies
 -------------------------------------------------------------------------------------------------
 
-## 1.1. SQL Server
+## 2.1. SQL Server
 
 
 
-## 1.2. Oracle SQL Developer
+## 2.2. Oracle SQL Developer
 
 
-## 1.3. Design Patterns
+## 2.3. Design Patterns
 
 Design-Patterns: https://github.com/luiscoco/Design-Patterns
 
@@ -145,7 +145,7 @@ Design Patterns in Python: https://github.com/luiscoco/Design-Patterns/tree/main
 
 Design Patterns in Swift: https://github.com/luiscoco/Design-Patterns/tree/main/src/swift
 
-### 1.3.1. Design Patterns in C#
+### 2.3.1. Design Patterns in C#
 
 GoF_Csharp-1.Singleton_pattern: https://github.com/luiscoco/GoF_Csharp-1.Singleton_pattern
 
@@ -193,7 +193,7 @@ GoF_Csharp-22.Template_Method_pattern: https://github.com/luiscoco/GoF_Csharp-22
 
 GoF_Csharp-23.Visitor_pattern: https://github.com/luiscoco/GoF_Csharp-23.Visitor_pattern
 
-### 1.3.2. Design Patterns with SpringBoot
+### 2.3.2. Design Patterns with SpringBoot
 
 GoF_SpringBoot-1.Singleton: https://github.com/luiscoco/GoF_SpringBoot-1.Singleton
 
@@ -209,7 +209,7 @@ GoF_SpringBoot-6.Adapter_pattern: https://github.com/luiscoco/GoF_SpringBoot-6.A
 
 
 
-## 1.4. Java
+## 2.4. Java
 
 JavaSE_Sample2-VSCode-JDK-17: https://github.com/luiscoco/JavaSE_Sample2-VSCode-JDK-17
 
@@ -223,7 +223,7 @@ JavaSE-Summary-Professional-Developer-Certification-Java-11-and-17: https://gith
 
 Udemy_Java21_Java17_Java11_and_Advanced_Java8: https://github.com/luiscoco/Udemy_Java21_Java17_Java11_and_Advanced_Java8
 
-### Java Samples
+### 2.4.1. Java Samples
 
 JavaSE-Sample1: https://github.com/luiscoco/JavaSE-Sample1
 
@@ -243,7 +243,7 @@ JavaSE_Calculator: https://github.com/luiscoco/JavaSE_Calculator
 
 JavaSE_JUnit-Test-demo1: https://github.com/luiscoco/JavaSE_JUnit-Test-demo1
 
-### Java Training
+### 2.4.2. Java Training
 
 JavaSE-1.Variables: https://github.com/luiscoco/JavaSE-1.Variables
 
@@ -355,7 +355,7 @@ JavaSE-51.Serialization: https://github.com/luiscoco/JavaSE-51.Serialization
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
-### JavaSE_Threads
+### 2.4.3. JavaSE_Threads
 
 JavaSE_Threads-Sample1: https://github.com/luiscoco/JavaSE_Threads-Sample1
 
@@ -373,7 +373,7 @@ JavaSE_Threads-Sample7: https://github.com/luiscoco/JavaSE_Threads-Sample7
 
 JavaSE_Threads-Sample8: https://github.com/luiscoco/JavaSE_Threads-Sample8
 
-### JavaSE_Unit_Testing
+### 2.4.4. JavaSE_Unit_Testing
 
 JavaSE_Unit_Testing_Introduction: https://github.com/luiscoco/JavaSE_Unit_Testing_Introduction
 
@@ -385,7 +385,7 @@ JavaSE_Unit_Testing_Sample3: https://github.com/luiscoco/JavaSE_Unit_Testing_Sam
 
 JavaSE_Unit_Testing_Sample4: https://github.com/luiscoco/JavaSE_Unit_Testing_Sample4
 
-### Java Networking
+### 2.4.5. Java Networking
 
 JavaSE-Networking-URL-Connections-and-Input-Stream-Reader: https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/tree/master
 
@@ -399,9 +399,9 @@ JavaSE-Networking-High-Level-APIS-Source-code: https://github.com/luiscoco/JavaS
 
 JavaSE-Networking-First-Client-and-Server-Apps-Source-code: https://github.com/luiscoco/JavaSE-Networking-First-Client-and-Server-Apps-Source-code
 
-## 1.5. C#
+## 2.5. C#
 
-### 1.5.1. SOLID principles
+### 2.5.1. SOLID principles
 
 SOLID_Csharp_Single_Responsability_Principle-SRP: https://github.com/luiscoco/SOLID_Csharp_Single_Responsability_Principle-SRP
 
@@ -413,17 +413,17 @@ SOLID_Csharp_Interface_Segregation_Principle-ISP: https://github.com/luiscoco/SO
 
 SOLID_Csharp_Dependency_Inversion_Principle-DIP: https://github.com/luiscoco/SOLID_Csharp_Dependency_Inversion_Principle-DIP
 
-### 1.5.2. C# History
+### 2.5.2. C# History
 
 
-### 1.5.3. C# Reference
+### 2.5.3. C# Reference
 
 
-### 1.5.4. C# Samples
+### 2.5.4. C# Samples
 
 
 
-## 1.6. RabbitMQ 
+## 2.6. RabbitMQ 
 
 RabbitMQ_PriorityQueues: https://github.com/luiscoco/RabbitMQ_PriorityQueues
 
@@ -451,7 +451,7 @@ RabbitMQ_ExchangeToExchangeDemo: https://github.com/luiscoco/RabbitMQ_ExchangeTo
 
 AWSAmazonMQ-RabbitMQ: https://github.com/luiscoco/AWSAmazonMQ-RabbitMQ
 
-## 1.7. Kafka with Java
+## 2.7. Kafka with Java
 
 Kafka_Java_Training: https://github.com/luiscoco/Kafka_Java_Training
 
@@ -459,7 +459,7 @@ Kafka_Java_Consumer_Serialize_message_to_JSON: https://github.com/luiscoco/Kafka
 
 Kafka_Java_Producer_Serialize_message_to_JSON: https://github.com/luiscoco/Kafka_Java_Producer_Serialize_message_to_JSON
 
-## 1.8. Kafka with .NET C#
+## 2.8. Kafka with .NET C#
 
 Kafka_Csharp_Consumer: https://github.com/luiscoco/Kafka_Csharp_Consumer
 
@@ -467,16 +467,16 @@ Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
 
 
 -------------------------------------------------------------------------------------------------
-# 2. Cloud technologies
+# 3. Cloud technologies
 -------------------------------------------------------------------------------------------------
 
-## 2.0. Cloud comparison
+## 3.1. Cloud comparison
 
 CloudComparison: https://github.com/luiscoco/CloudComparison
 
 
 
-## 2.1. AWS
+## 3.2. AWS
 
 ## AWS SDK for .NET
 
@@ -503,43 +503,43 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 
 
-## 2.2. Azure
+## 3.3. Azure
 
-### 2.2.1. AZ-104 Azure IT Administrator Certificate
-
-
-
-### 2.2.2. AZ-204 Azure Developer Associate
+### 3.3.1. AZ-104 Azure IT Administrator Certificate
 
 
 
-### 2.2.3. AZ-305 Azure Solutions Architect
+### 3.3.2. AZ-204 Azure Developer Associate
+
+
+
+### 3.3.3. AZ-305 Azure Solutions Architect
 
 
 
 
-## 2.3. Google Cloud Services
+## 3.4. Google Cloud Services
 
 ### Google Cloud SDK for .NET
 
 GoogleCloud_SDK_for_dotNET: https://github.com/luiscoco/GoogleCloud_SDK_for_dotNET
 
 -------------------------------------------------------------------------------------------------
-# 3. Big data technologies
+# 4. Big data technologies
 -------------------------------------------------------------------------------------------------
 
-## 3.1. Scala
+## 4.1. Scala
 
 Scala_from_zero_to_hero: https://github.com/luiscoco/Scala_from_zero_to_hero
 
-## 3.2. DataBricks
+## 4.2. DataBricks
 
 DataBricks_Samples: https://github.com/luiscoco/DataBricks_Samples
 
 DataBricks_Certificates-Training: https://github.com/luiscoco/DataBricks_Certificates-Training
 
 
-## 3.3. Spark with Scala
+## 4.3. Spark with Scala
 
 Spark_with_IntelliJ_Community: https://github.com/luiscoco/Spark_with_IntelliJ_Community
 
@@ -553,10 +553,10 @@ Spark_Running_in_Docker_with_bitnami_images: https://github.com/luiscoco/Spark_R
 
 Spark_DataSources_JDBC_PostgreSQL: https://github.com/luiscoco/Spark_DataSources_JDBC_PostgreSQL
 
-## Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
+## 4.4. Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
 
 
-## Spark with .NET
+## 4.5. Spark with .NET
 
 .NET-for-Apache-Spark_Sample1: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample1
 
@@ -564,10 +564,10 @@ Spark_DataSources_JDBC_PostgreSQL: https://github.com/luiscoco/Spark_DataSources
 
 
 -------------------------------------------------------------------------------------------------
-# 4. Connected Vehicles to cloud platforms
+# 5. Connected Vehicles to cloud platforms
 -------------------------------------------------------------------------------------------------
 
-## Tesla
+## 5.1. Tesla
 
 TeslaAPI: https://github.com/luiscoco/TeslaAPI
 
