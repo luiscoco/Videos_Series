@@ -21,6 +21,16 @@ Kafka_Csharp_Producer
 
 Spark_with_IntelliJ_Community 
 
+Spark_with_DataBricks 
+
+Spark_with_VSCode_PendingToDo
+
+Spark-Shell_Running_in_Docker_sparkOfficial_image 
+
+Spark_Running_in_Docker_with_bitnami_images
+
+
+
 Spark_DataSources_JDBC_PostgreSQL 
 
 
