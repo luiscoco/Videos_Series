@@ -617,30 +617,27 @@ CloudComparison: https://github.com/luiscoco/CloudComparison
 
 ## 3.2. AWS
 
-## AWS SDK for .NET
+### AWS SDK for .NET#
 
 AWS_SDK-for-dotNET-Presentation: https://github.com/luiscoco/AWS_SDK-for-dotNET-Presentation
 
-## AWS Glue
+### AWS Glue
 
 AWS_Glue_Overview: https://github.com/luiscoco/AWS_Glue_Overview
 
 AWS_Glue_CSV_Parquet: https://github.com/luiscoco/AWS_Glue_CSV_Parquet
 
-
-## AWS EMR
+### AWS EMR
 
 AWS_EMR_Amazon-Elastic-MapReduce
 
-## AWS_SDK_EC2-for-JavaScript
+### AWS_SDK_EC2-for-JavaScript
 
 AWS_SDK_EC2-for-JavaScript: https://github.com/luiscoco/AWS_SDK_EC2-for-JavaScript 
 
-## AWS_SDK_S3-for-JavaScript
+### AWS_SDK_S3-for-JavaScript
 
 AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
-
-
 
 ## 3.3. Azure
 
@@ -659,7 +656,7 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 ## 3.4. Google Cloud Services
 
-### Google Cloud SDK for .NET
+### 3.4.1. Google Cloud SDK for .NET
 
 GoogleCloud_SDK_for_dotNET: https://github.com/luiscoco/GoogleCloud_SDK_for_dotNET
 
@@ -747,29 +744,4 @@ https://github.com/luiscoco/Tesla_Commands_console_app
 Tesla_GetVehicleDataAsync_console_app: 
 
 https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
