@@ -1,4 +1,13 @@
-# Videos Series
+# Big data technologies
+
+# Cloud technologies
+
+
+# Back-End technologies
+
+
+# Connected Vehicles to cloud platforms
+
 
 ## Kafka with Java
 
