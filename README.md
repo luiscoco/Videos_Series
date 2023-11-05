@@ -6,6 +6,8 @@
 
 Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Getting-Started
 
+Angular_Sample3_TourOfHeroes-pt1: https://github.com/luiscoco/Angular_Sample3_TourOfHeroes-pt1
+
 
 
 AngularTemplate_Sample1-Syntax: https://github.com/luiscoco/AngularTemplate_Sample1-Syntax
@@ -26,15 +28,15 @@ AngularTemplate_Sample9_TemplateReferenceVariables: https://github.com/luiscoco/
 
 AngularTemplate_Sample10-SummaryTemplateSyntax: https://github.com/luiscoco/AngularTemplate_Sample10-SummaryTemplateSyntax
 
-
-
-
-
 AngularDirectives_Sample1-BuiltInDirectives: https://github.com/luiscoco/AngularDirectives_Sample1-BuiltInDirectives
 
 AngularDirectives_Sample2-AttributeDirectives: https://github.com/luiscoco/AngularDirectives_Sample2-AttributeDirectives
 
 AngularDirectives_Sample3-StructuralDirectives: https://github.com/luiscoco/AngularDirectives_Sample3-StructuralDirectives
+
+Angular_RxJS-Sample1: https://github.com/luiscoco/Angular_RxJS-Sample1
+
+AngularAdvance_NgRXDemo: https://github.com/luiscoco/AngularAdvance_NgRXDemo
 
 
 
