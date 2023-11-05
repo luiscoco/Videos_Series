@@ -113,6 +113,34 @@ JavaSE-35.Packages_Modules: https://github.com/luiscoco/JavaSE-35.Packages_Modul
 
 JavaSE-36.Lambda: https://github.com/luiscoco/JavaSE-36.Lambda
 
+JavaSE-37.Predicate: https://github.com/luiscoco/JavaSE-37.Predicate
+
+JavaSE-38.BiPredicate: https://github.com/luiscoco/JavaSE-38.BiPredicate
+
+JavaSE-39.Supplier: https://github.com/luiscoco/JavaSE-39.Supplier
+
+JavaSE-40.Consumer: https://github.com/luiscoco/JavaSE-40.Consumer
+
+JavaSE-41.BiConsumer: https://github.com/luiscoco/JavaSE-41.BiConsumer
+
+JavaSE-42.Function: https://github.com/luiscoco/JavaSE-42.Function
+
+JavaSE-43.BiFunctions: https://github.com/luiscoco/JavaSE-43.BiFunctions
+
+JavaSE-44.UnaryOperator: https://github.com/luiscoco/JavaSE-44.UnaryOperator
+
+JavaSE-45.BinaryOperator: https://github.com/luiscoco/JavaSE-45.BinaryOperator
+
+JavaSE-46.EffectivelyFinal: https://github.com/luiscoco/JavaSE-46.EffectivelyFinal
+
+JavaSE-47.MethodReferences: https://github.com/luiscoco/JavaSE-47.MethodReferences
+
+JavaSE-48.Streams: https://github.com/luiscoco/JavaSE-48.Streams
+
+JavaSE-49.java.io: https://github.com/luiscoco/JavaSE-49.java.io
+
+JavaSE-50.java.nio: https://github.com/luiscoco/JavaSE-50.java.nio
+
 
 
 
