@@ -629,7 +629,7 @@ AWS_Glue_CSV_Parquet: https://github.com/luiscoco/AWS_Glue_CSV_Parquet
 
 ### 3.2.3. AWS EMR
 
-AWS_EMR_Amazon-Elastic-MapReduce
+AWS_EMR_Amazon-Elastic-MapReduce: https://github.com/luiscoco/AWS_EMR_Amazon-Elastic-MapReduce
 
 ### 3.2.4. AWS_SDK_EC2-for-JavaScript
 
