@@ -1051,3 +1051,49 @@ Tesla_GetVehicleDataAsync_console_app:
 
 https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
 
+-------------------------------------------------------------------------------------------------
+# 5. DevOps
+-------------------------------------------------------------------------------------------------
+
+## 5.1. Docker
+
+### 5.1.2. Docker Hub
+
+### 5.1.3. Docker Desktop
+
+### 5.1.4. Docker commands
+
+## 5.2. Kubernetes
+
+
+## 5.3. Git
+
+
+## 5.4. Terraform
+
+
+
+## 5.5. Azure DevOps
+
+
+
+## 5.6. Github Actions
+
+
+
+## 5.7. Gitlab
+
+
+
+## 5.8. Bitbucket
+
+
+## 5.9. Jenkins
+
+
+## 5.10. TeamCity
+
+
+
+
+
