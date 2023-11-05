@@ -107,6 +107,12 @@ GoF_Csharp-19.Observer_pattern: https://github.com/luiscoco/GoF_Csharp-19.Observ
 
 GoF_Csharp-20.State_pattern: https://github.com/luiscoco/GoF_Csharp-20.State_pattern
 
+GoF_Csharp-21.Strategy_pattern: https://github.com/luiscoco/GoF_Csharp-21.Strategy_pattern
+
+GoF_Csharp-22.Template_Method_pattern: https://github.com/luiscoco/GoF_Csharp-22.Template_Method_pattern
+
+GoF_Csharp-23.Visitor_pattern: https://github.com/luiscoco/GoF_Csharp-23.Visitor_pattern
+
 
 
 
