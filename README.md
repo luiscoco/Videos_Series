@@ -115,8 +115,19 @@ GoF_Csharp-22.Template_Method_pattern: https://github.com/luiscoco/GoF_Csharp-22
 
 GoF_Csharp-23.Visitor_pattern: https://github.com/luiscoco/GoF_Csharp-23.Visitor_pattern
 
-### 1.3.2. Design Patterns in Java
+### 1.3.2. Design Patterns with SpringBoot
 
+GoF_SpringBoot-1.Singleton: https://github.com/luiscoco/GoF_SpringBoot-1.Singleton
+
+GoF_SpringBoot-2.Factory_method: https://github.com/luiscoco/GoF_SpringBoot-2.Factory_method
+
+GoF_SpringBoot-3.Abstract_factory: https://github.com/luiscoco/GoF_SpringBoot-3.Abstract_factory
+
+GoF_SpringBoot-4.Prototype_pattern: https://github.com/luiscoco/GoF_SpringBoot-4.Prototype_pattern
+
+GoF_SpringBoot-5.Builder_pattern: https://github.com/luiscoco/GoF_SpringBoot-5.Builder_pattern
+
+GoF_SpringBoot-6.Adapter_pattern: https://github.com/luiscoco/GoF_SpringBoot-6.Adapter_pattern
 
 
 
@@ -284,7 +295,17 @@ JavaSE_Threads-Sample7: https://github.com/luiscoco/JavaSE_Threads-Sample7
 
 JavaSE_Threads-Sample8: https://github.com/luiscoco/JavaSE_Threads-Sample8
 
+### JavaSE_Unit_Testing
 
+JavaSE_Unit_Testing_Introduction: https://github.com/luiscoco/JavaSE_Unit_Testing_Introduction
+
+JavaSE_Unit_Testing_Sample1: https://github.com/luiscoco/JavaSE_Unit_Testing_Sample1
+
+JavaSE_Unit_Testing_Sample2: https://github.com/luiscoco/JavaSE_Unit_Testing_Sample2
+
+JavaSE_Unit_Testing_Sample3: https://github.com/luiscoco/JavaSE_Unit_Testing_Sample3
+
+JavaSE_Unit_Testing_Sample4: https://github.com/luiscoco/JavaSE_Unit_Testing_Sample4
 
 ### Java Networking
 
@@ -299,9 +320,6 @@ JavaSE-Networking-Alternatives-to-HTTPUrlConenction-Source-code: https://github.
 JavaSE-Networking-High-Level-APIS-Source-code: https://github.com/luiscoco/JavaSE-Networking-High-Level-APIS-Source-code
 
 JavaSE-Networking-First-Client-and-Server-Apps-Source-code: https://github.com/luiscoco/JavaSE-Networking-First-Client-and-Server-Apps-Source-code
-
-
-
 
 ## 1.5. C#
 
