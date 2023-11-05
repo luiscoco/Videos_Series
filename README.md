@@ -238,7 +238,25 @@ JavaSE-51.Serialization: https://github.com/luiscoco/JavaSE-51.Serialization
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
+
+JavaSE_Calculator: https://github.com/luiscoco/JavaSE_Calculator
+
+JavaSE_JUnit-Test-demo1: https://github.com/luiscoco/JavaSE_JUnit-Test-demo1
+
+
 JavaSE-Networking-URL-Connections-and-Input-Stream-Reader: https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/tree/master
+
+JavaSE-Networking-UDP-Server-and-Client-Source-code: https://github.com/luiscoco/JavaSE-Networking-UDP-Server-and-Client-Source-code
+
+JavaSE-Networking-HTTPUrlConnection-Source-code: https://github.com/luiscoco/JavaSE-Networking-HTTPUrlConnection-Source-code
+
+JavaSE-Networking-Alternatives-to-HTTPUrlConenction-Source-code: https://github.com/luiscoco/JavaSE-Networking-Alternatives-to-HTTPUrlConenction-Source-code
+
+JavaSE-Networking-High-Level-APIS-Source-code: https://github.com/luiscoco/JavaSE-Networking-High-Level-APIS-Source-code
+
+JavaSE-Networking-First-Client-and-Server-Apps-Source-code: https://github.com/luiscoco/JavaSE-Networking-First-Client-and-Server-Apps-Source-code
+
+
 
 
 ## 1.5. C#
