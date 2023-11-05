@@ -65,15 +65,13 @@ AngularWithGooglemaps_Sample7-Optional-saving-to-database: https://github.com/lu
 
 Angular_Signals-Sample: https://github.com/luiscoco/Angular_Signals-Sample
 
+### Angular Material
 
+AngularMaterial_Sample1-Chips: https://github.com/luiscoco/AngularMaterial_Sample1-Chips
 
+AngularMaterial_Sample2-Cards: https://github.com/luiscoco/AngularMaterial_Sample2-Cards
 
-
-
-
-
-
-
+AngularMaterial_Sample3-Dialog: https://github.com/luiscoco/AngularMaterial_Sample3-Dialog
 
 ## React
 
