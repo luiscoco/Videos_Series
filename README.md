@@ -67,6 +67,28 @@ JavaSE-14.Passing_primitives_or_objects: https://github.com/luiscoco/JavaSE-14.P
 
 JavaSE-15.StaticMethods: https://github.com/luiscoco/JavaSE-15.StaticMethods
 
+JavaSE-16.Classes: https://github.com/luiscoco/JavaSE-16.Classes
+
+JavaSE-17.Constructors: https://github.com/luiscoco/JavaSE-17.Constructors
+
+JavaSE-18.ClassAccessModifiers: https://github.com/luiscoco/JavaSE-18.ClassAccessModifiers
+
+JavaSE-19.Encapsulation: https://github.com/luiscoco/JavaSE-19.Encapsulation
+
+JavaSE-20.Abstraction: https://github.com/luiscoco/JavaSE-20.Abstraction
+
+JavaSE-21.Polymorphism: https://github.com/luiscoco/JavaSE-21.Polymorphism
+
+JavaSE-22.Interfaces: https://github.com/luiscoco/JavaSE-22.Interfaces
+
+JavaSE-23.Functional_Interfaces: https://github.com/luiscoco/JavaSE-23.Functional_Interfaces
+
+JavaSE-24.NestedClases: https://github.com/luiscoco/JavaSE-24.NestedClases
+
+JavaSE-25.Enumerators: https://github.com/luiscoco/JavaSE-25.Enumerators
+
+
+
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
