@@ -134,7 +134,11 @@ https://www.bezkoder.com/angular-16-node-js-express-mongodb/
 
 https://github.com/bezkoder/mean-stack-example
 
+Angular 16 CRUD example with Web API:
 
+https://www.bezkoder.com/angular-16-crud-example
+
+https://github.com/bezkoder/angular-16-crud-example
 
 
 
@@ -522,6 +526,11 @@ Kafka_Java_Producer_Serialize_message_to_JSON: https://github.com/luiscoco/Kafka
 Kafka_Csharp_Consumer: https://github.com/luiscoco/Kafka_Csharp_Consumer
 
 Kafka_Csharp_Producer: https://github.com/luiscoco/Kafka_Csharp_Producer
+
+## 2.9. MEAN Stack (MongoDB-Express-Angular-Node)
+
+Node.js, Express & MongoDb: Build a CRUD Rest Api example: https://www.bezkoder.com/node-express-mongodb-crud-rest-api/
+
 
 
 -------------------------------------------------------------------------------------------------
