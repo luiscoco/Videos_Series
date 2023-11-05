@@ -643,25 +643,25 @@ AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
 ### 3.3.1. AZ-104 Azure IT Administrator Certificate
 
-Section 1: Introduction
+**Section 1**: Introduction
 
-Important Course Introductions
+1. Important Course Introductions
 
-PDF and Diagrams download
+2. PDF and Diagrams download
 
-Section 2: Starting with Azure
+**Section 2**: Starting with Azure
 
-Azure Free Account
+3. Azure Free Account
 
-Creating an Azure Free Account
+4. Creating an Azure Free Account
 
-Concepts in Azure
+5. Concepts in Azure
 
-Tour of the Portal
+6. Tour of the Portal
 
-Quick note on Security Defaults
+7. Quick note on Security Defaults
 
-Section 3: Deploy and Manage Azure compute resources
+**Section 3**: Deploy and Manage Azure compute resources
 
 8. We are going to start with the Azure virtual machine service
 
@@ -863,21 +863,21 @@ Section 3: Deploy and Manage Azure compute resources
 
 107. Azure Kubernetes Persistent Storage - File shares - Resources
 
-Section 4: Configure and manage virtual networking
+**Section 4**: Configure and manage virtual networking
 
-Section 5: Implement and manage storage
+**Section 5**: Implement and manage storage
 
-Section 6: Manage Azure Identities and Governance
+**Section 6**: Manage Azure Identities and Governance
 
-Section 7: Monitor and back up Azure resources
+**Section 7**: Monitor and back up Azure resources
 
-Section 8: Azure PowerShell and Azure CLI
+**Section 8**: Azure PowerShell and Azure CLI
 
-Section 9: Azure Resource Manager Templates
+**Section 9**: Azure Resource Manager Templates
 
-Section 10: Bicep language for deploying resources
+**Section 10**: Bicep language for deploying resources
 
-Section 11: Practice section
+**Section 11**: Practice section
 
 ### 3.3.2. AZ-204 Azure Developer Associate
 
