@@ -881,7 +881,79 @@ Section 11: Practice section
 
 ### 3.3.2. AZ-204 Azure Developer Associate
 
+**Section 1**: Introduction
 
+1. Important note about this course
+
+2. Important - How this course is structured
+
+3. Slides and Diagrams download
+
+4. What is Azure
+
+5. Azure Free Account
+
+6. Creating an Azure Free Account
+
+7. Tour Around the Azure Portal
+
+8. Concepts regarding Azure
+
+9. Security defaults
+
+**Section 2**: Develop Azure compute solutions - Azure Virtual Machines
+
+10. What are we going to cover
+
+11. Using Visual Studio 2022
+
+12. Installing Visual Studio 2022
+
+13. Building a simple project locally
+
+14. What goes into the deployment of a virtual machine
+
+15. Lab - Building a Windows virtual machine
+
+16. Connecting to the Virtual Machine
+
+17. Lab - Installing Internet Information Services
+
+18. Lab - Deploying a .NET Core app on Windows Server
+
+19. Lab - Building a Linux VM
+
+20. Deploying our .NET App on the Linux VM
+
+21. Using NGINX on the Linux VM
+
+22. Keeping a check on the cost of your resources
+
+23. Quick Note
+
+Quiz 1: Short Quiz
+
+**Section 3**: Develop Azure compute solutions - Azure Web Apps
+
+**Section 4**: Develop Azure compute solutions - Azure Functions
+
+**Section 5**: Develop Azure compute solutions - Containers
+
+**Section 6**: Develop Azure compute solutions - Other tools and Review
+
+**Section 7**: Develop for Azure Storage - Azure Storage Accounts
+
+**Section 8**: Develop for AZURE Storage - Azure Cosmos DB
+
+**Section 9**: Implement Azure security
+
+**Section 10**: Implement Azure security - Authentication and Authorization
+
+**Section 11**: Monitor, troubleshoot, and optimize Azure solutions
+
+**Section 12**: Connect to and consume Azure services and third-party services
+
+**Section 13**: Practice Section
 
 ### 3.3.3. AZ-305 Azure Solutions Architect
 
