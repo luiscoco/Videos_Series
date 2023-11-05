@@ -252,6 +252,12 @@ JavaSE-47.MethodReferences: https://github.com/luiscoco/JavaSE-47.MethodReferenc
 
 JavaSE-48.Streams: https://github.com/luiscoco/JavaSE-48.Streams
 
+JavaSE_Streams-Sample1: https://github.com/luiscoco/JavaSE_Streams-Sample1
+
+JavaSE_Streams-Sample2: https://github.com/luiscoco/JavaSE_Streams-Sample2
+
+JavaSE_Streams-Sample3: https://github.com/luiscoco/JavaSE_Streams-Sample3
+
 JavaSE-49.java.io: https://github.com/luiscoco/JavaSE-49.java.io
 
 JavaSE-50.java.nio: https://github.com/luiscoco/JavaSE-50.java.nio
