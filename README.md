@@ -140,10 +140,6 @@ https://www.bezkoder.com/angular-16-crud-example
 
 https://github.com/bezkoder/angular-16-crud-example
 
-
-
-
-
 ## 1.2. React
 
 Full Stack React Bootcamp with .NET API [2023] [10 Projects]: https://www.udemy.com/course/full-stack-react-bootcamp-with-net-api/
@@ -625,6 +621,16 @@ GoogleCloud_SDK_for_dotNET: https://github.com/luiscoco/GoogleCloud_SDK_for_dotN
 
 Scala_from_zero_to_hero: https://github.com/luiscoco/Scala_from_zero_to_hero
 
+**Daniel Ciocîrlan**
+
+https://rockthejvm.com/
+
+https://github.com/rockthejvm
+
+Scala & Functional Programming Essentials | Rock the JVM: https://www.udemy.com/course/rock-the-jvm-scala-for-beginners
+
+Advanced Scala and Functional Programming | Rock the JVM: https://www.udemy.com/course/advanced-scala
+
 ## 4.2. DataBricks
 
 DataBricks_Samples: https://github.com/luiscoco/DataBricks_Samples
@@ -646,15 +652,19 @@ Spark_Running_in_Docker_with_bitnami_images: https://github.com/luiscoco/Spark_R
 
 Spark_DataSources_JDBC_PostgreSQL: https://github.com/luiscoco/Spark_DataSources_JDBC_PostgreSQL
 
-## 4.4. Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
+## 4.4. Apache-Spark-3
 
+https://rockthejvm.com/p/the-spark-bundle
+
+Apache Spark 3 & Big Data Essentials in Scala | Rock the JVM: https://www.udemy.com/course/spark-essentials
+
+Apache Spark Streaming 3 with Scala | Rock the JVM: https://www.udemy.com/course/spark-streaming
 
 ## 4.5. Spark with .NET
 
 .NET-for-Apache-Spark_Sample1: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample1
 
 .NET-for-Apache-Spark_Sample2: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample2
-
 
 -------------------------------------------------------------------------------------------------
 # 5. Connected Vehicles to cloud platforms
