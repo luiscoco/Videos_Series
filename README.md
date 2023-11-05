@@ -323,6 +323,26 @@ JavaSE-Networking-First-Client-and-Server-Apps-Source-code: https://github.com/l
 
 ## 1.5. C#
 
+### 1.5.1. SOLID principles
+
+SOLID_Csharp_Single_Responsability_Principle-SRP: https://github.com/luiscoco/SOLID_Csharp_Single_Responsability_Principle-SRP
+
+SOLID_Csharp_Open_Close_Principle-OCP: https://github.com/luiscoco/SOLID_Csharp_Open_Close_Principle-OCP
+
+SOLID_Csharp_Liskov_Substitution-Principle-LSP: https://github.com/luiscoco/SOLID_Csharp_Liskov_Substitution-Principle-LSP
+
+SOLID_Csharp_Interface_Segregation_Principle-ISP: https://github.com/luiscoco/SOLID_Csharp_Interface_Segregation_Principle-ISP
+
+SOLID_Csharp_Dependency_Inversion_Principle-DIP: https://github.com/luiscoco/SOLID_Csharp_Dependency_Inversion_Principle-DIP
+
+### 1.5.2. C# History
+
+
+### 1.5.3. C# Reference
+
+
+### 1.5.4. C# Samples
+
 
 
 ## 1.6. RabbitMQ 
