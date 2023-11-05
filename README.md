@@ -126,6 +126,18 @@ AngularComponents_Sample8-DynamicComponentLoader: https://github.com/luiscoco/An
 
 AngularComponents_Sample9-Elements: https://github.com/luiscoco/AngularComponents_Sample9-Elements
 
+### 1.1.8. MEAN stack (MongoDB + Node.js Express + Angular 16) Angular16 CRUD API Client
+
+MEAN Stack example with Angular 16: 
+
+https://www.bezkoder.com/angular-16-node-js-express-mongodb/
+
+https://github.com/bezkoder/mean-stack-example
+
+
+
+
+
 
 
 ## 1.2. React
