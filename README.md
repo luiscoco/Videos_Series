@@ -17,6 +17,22 @@ Kafka_Csharp_Consumer
 Kafka_Csharp_Producer
 
 
+## Spark with Scala
+
+Spark_with_IntelliJ_Community 
+
+Spark_DataSources_JDBC_PostgreSQL 
+
+
+## Spark with .NET
+
+.NET-for-Apache-Spark_Sample1
+
+.NET-for-Apache-Spark_Sample2
+
+
+
+
 ## Java
 
 Java_Maven_Sample in VSCode
