@@ -101,6 +101,23 @@ JavaSE-29.IterableAndCollections: https://github.com/luiscoco/JavaSE-29.Iterable
 
 JavaSE-30.Lists: https://github.com/luiscoco/JavaSE-30.Lists
 
+JavaSE-31.Sets: https://github.com/luiscoco/JavaSE-31.Sets
+
+JavaSE-32.Maps: https://github.com/luiscoco/JavaSE-32.Maps
+
+JavaSE-33.Queues: https://github.com/luiscoco/JavaSE-33.Queues
+
+JavaSE-34.Sorting_Arrays_Lists: https://github.com/luiscoco/JavaSE-34.Sorting_Arrays_Lists
+
+JavaSE-35.Packages_Modules: https://github.com/luiscoco/JavaSE-35.Packages_Modules
+
+JavaSE-36.Lambda: https://github.com/luiscoco/JavaSE-36.Lambda
+
+
+
+
+
+
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
 
