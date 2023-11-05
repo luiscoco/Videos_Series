@@ -67,6 +67,8 @@ Design Patterns in Python: https://github.com/luiscoco/Design-Patterns/tree/main
 
 Design Patterns in Swift: https://github.com/luiscoco/Design-Patterns/tree/main/src/swift
 
+### 1.3.1. Design Patterns in C#
+
 GoF_Csharp-1.Singleton_pattern: https://github.com/luiscoco/GoF_Csharp-1.Singleton_pattern
 
 GoF_Csharp-2.Factory_Method_Pattern: https://github.com/luiscoco/GoF_Csharp-2.Factory_Method_Pattern
@@ -113,7 +115,7 @@ GoF_Csharp-22.Template_Method_pattern: https://github.com/luiscoco/GoF_Csharp-22
 
 GoF_Csharp-23.Visitor_pattern: https://github.com/luiscoco/GoF_Csharp-23.Visitor_pattern
 
-
+### 1.3.2. Design Patterns in Java
 
 
 
