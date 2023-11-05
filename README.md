@@ -238,6 +238,7 @@ JavaSE-51.Serialization: https://github.com/luiscoco/JavaSE-51.Serialization
 
 JavaSE-52.JDBC: https://github.com/luiscoco/JavaSE-52.JDBC
 
+JavaSE-Networking-URL-Connections-and-Input-Stream-Reader: https://github.com/luiscoco/JavaSE-Networking-URL-Connections-and-Input-Stream-Reader/tree/master
 
 
 ## 1.5. C#
