@@ -549,13 +549,13 @@ SOLID_Csharp_Dependency_Inversion_Principle-DIP: https://github.com/luiscoco/SOL
 
 ### 2.5.2. C# History
 
+https://learn.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-version-history
 
 ### 2.5.3. C# Reference
 
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/
 
 ### 2.5.4. C# Samples
-
-
 
 ## 2.6. RabbitMQ 
 
