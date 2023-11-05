@@ -209,8 +209,15 @@ JavaScript_arguments-spread-destructuring: https://github.com/luiscoco/JavaScrip
 
 JavaScript_set-map-and-some-tasks: https://github.com/luiscoco/JavaScript_set-map-and-some-tasks
 
+JavaScript_arrays: https://github.com/luiscoco/JavaScript_arrays
 
+JavaScript_functions: https://github.com/luiscoco/JavaScript_functions
 
+JavaScript_Task1: https://github.com/luiscoco/JavaScript_Task1
+
+JavaScript_objects: https://github.com/luiscoco/JavaScript_objects
+
+JavaScript_Introduction: https://github.com/luiscoco/JavaScript_Introduction
 
 
 
@@ -219,6 +226,10 @@ JavaScript_set-map-and-some-tasks: https://github.com/luiscoco/JavaScript_set-ma
 
 
 ## 1.10. JQuery
+
+
+
+
 
 
 
