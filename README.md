@@ -474,14 +474,9 @@ Spark_DataSources_JDBC_PostgreSQL: https://github.com/luiscoco/Spark_DataSources
 
 ## Spark with .NET
 
-.NET-for-Apache-Spark_Sample1
+.NET-for-Apache-Spark_Sample1: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample1
 
-.NET-for-Apache-Spark_Sample2
-
-
-
-
-
+.NET-for-Apache-Spark_Sample2: https://github.com/luiscoco/.NET-for-Apache-Spark_Sample2
 
 
 -------------------------------------------------------------------------------------------------
