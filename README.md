@@ -189,6 +189,33 @@ Curso de Vue 3 Profesional: https://www.youtube.com/playlist?list=PLDllzmccetSNg
 
 ## 1.9. JavaScript
 
+JavaScript_Basics: https://github.com/luiscoco/JavaScript_Basics
+
+JavaScript_inheritance-classes: https://github.com/luiscoco/JavaScript_inheritance-classes
+
+JavaScript_async: https://github.com/luiscoco/JavaScript_async
+
+JavaScript_errors-inheritance: https://github.com/luiscoco/JavaScript_errors-inheritance
+
+JavaScript_days-till-christmas: https://github.com/luiscoco/JavaScript_days-till-christmas
+
+JavaScript_closures: https://github.com/luiscoco/JavaScript_closures
+
+JavaScript_modules: https://github.com/luiscoco/JavaScript_modules
+
+JavaScript_date: https://github.com/luiscoco/JavaScript_date
+
+JavaScript_arguments-spread-destructuring: https://github.com/luiscoco/JavaScript_arguments-spread-destructuring
+
+JavaScript_set-map-and-some-tasks: https://github.com/luiscoco/JavaScript_set-map-and-some-tasks
+
+
+
+
+
+
+
+
 
 
 ## 1.10. JQuery
