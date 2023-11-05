@@ -98,7 +98,7 @@ AWS_EMR_Amazon-Elastic-MapReduce
 
 ## 3.1. Scala
 
-Scala_from_zero_to_hero
+Scala_from_zero_to_hero: https://github.com/luiscoco/Scala_from_zero_to_hero
 
 ## 3.2. DataBricks
 
