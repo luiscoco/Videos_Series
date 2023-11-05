@@ -8,6 +8,28 @@ Angular_Sample1_Getting-Started: https://github.com/luiscoco/Angular_Sample1_Get
 
 
 
+AngularTemplate_Sample1-Syntax: https://github.com/luiscoco/AngularTemplate_Sample1-Syntax
+
+AngularTemplate_Sample2-TextInterpolation: https://github.com/luiscoco/AngularTemplate_Sample2-TextInterpolation
+
+AngularTemplate_Sample3-PropertyBinding: https://github.com/luiscoco/AngularTemplate_Sample3-PropertyBinding
+
+AngularTemplate_Sample4-AttributeBinding: https://github.com/luiscoco/AngularTemplate_Sample4-AttributeBinding
+
+AngularTemplate_Sample6-EventBinding: https://github.com/luiscoco/AngularTemplate_Sample6-EventBinding
+
+AngularTemplate_Sample7-TwoWayBinding: https://github.com/luiscoco/AngularTemplate_Sample7-TwoWayBinding
+
+AngularTemplate_Sample8-PipesOverview: https://github.com/luiscoco/AngularTemplate_Sample8-PipesOverview
+
+AngularTemplate_Sample9_TemplateReferenceVariables: https://github.com/luiscoco/AngularTemplate_Sample9_TemplateReferenceVariables
+
+AngularTemplate_Sample10-SummaryTemplateSyntax: https://github.com/luiscoco/AngularTemplate_Sample10-SummaryTemplateSyntax
+
+
+
+
+
 AngularDirectives_Sample1-BuiltInDirectives: https://github.com/luiscoco/AngularDirectives_Sample1-BuiltInDirectives
 
 AngularDirectives_Sample2-AttributeDirectives: https://github.com/luiscoco/AngularDirectives_Sample2-AttributeDirectives
