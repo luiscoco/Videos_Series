@@ -617,25 +617,60 @@ CloudComparison: https://github.com/luiscoco/CloudComparison
 
 ## 3.2. AWS
 
-### 3.2.1. AWS SDK for .NET#
+
+### 3.2.1. AWS S3 (Storage)
+
+
+### 3.2.2. AWS EC2 (Virtual Machines)
+
+
+### 3.2.3. AWS ECR (Container Repository)
+
+
+### 3.2.5. AWS ECS (Containers)
+
+
+### 3.2.6. AWS EKS (Kubernetes)
+
+
+
+### 3.2.7 AWS Lambda (Serverless computing)
+
+
+
+### 3.2.8. AWS RDS
+
+
+
+### 3.2.9. AWS DynamoDB
+
+
+
+### 3.2.10. AWS EBS
+
+
+
+
+
+### 3.2.11 AWS SDK for .NET#
 
 AWS_SDK-for-dotNET-Presentation: https://github.com/luiscoco/AWS_SDK-for-dotNET-Presentation
 
-### 3.2.2. AWS Glue
+### 3.2.12. AWS Glue
 
 AWS_Glue_Overview: https://github.com/luiscoco/AWS_Glue_Overview
 
 AWS_Glue_CSV_Parquet: https://github.com/luiscoco/AWS_Glue_CSV_Parquet
 
-### 3.2.3. AWS EMR
+### 3.2.13. AWS EMR
 
 AWS_EMR_Amazon-Elastic-MapReduce: https://github.com/luiscoco/AWS_EMR_Amazon-Elastic-MapReduce
 
-### 3.2.4. AWS_SDK_EC2-for-JavaScript
+### 3.2.14. AWS_SDK_EC2-for-JavaScript
 
 AWS_SDK_EC2-for-JavaScript: https://github.com/luiscoco/AWS_SDK_EC2-for-JavaScript 
 
-### 3.2.5. AWS_SDK_S3-for-JavaScript
+### 3.2.15. AWS_SDK_S3-for-JavaScript
 
 AWS_SDK_S3-for-JavaScript: https://github.com/luiscoco/AWS_SDK_S3-for-JavaScript
 
