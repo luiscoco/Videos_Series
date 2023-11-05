@@ -327,8 +327,31 @@ JavaSE-Networking-First-Client-and-Server-Apps-Source-code: https://github.com/l
 
 ## 1.6. RabbitMQ 
 
+RabbitMQ_PriorityQueues: https://github.com/luiscoco/RabbitMQ_PriorityQueues
 
+RabbitMQ_RequestReply-QueueName-Demo: https://github.com/luiscoco/RabbitMQ_RequestReply-QueueName-Demo
 
+RabbitMQ_RequestReplyDemo: https://github.com/luiscoco/RabbitMQ_RequestReplyDemo
+
+RabbitMQ_RequestReply-MatchingCoding-Demo: https://github.com/luiscoco/RabbitMQ_RequestReply-MatchingCoding-Demo
+
+RabbitMQ_AlternateDemo: https://github.com/luiscoco/RabbitMQ_AlternateDemo
+
+RabbitMQ_PushPullDemo: https://github.com/luiscoco/RabbitMQ_PushPullDemo
+
+RabbitMQ_DefaultDemo: https://github.com/luiscoco/RabbitMQ_DefaultDemo
+
+RabbitMQ_TopicDemo: https://github.com/luiscoco/RabbitMQ_TopicDemo
+
+RabbitMQ_HeadersDemo: https://github.com/luiscoco/RabbitMQ_HeadersDemo
+
+RabbitMQ_DirectDemo: https://github.com/luiscoco/RabbitMQ_DirectDemo
+
+RabbitMQ_FanoutDemo: https://github.com/luiscoco/RabbitMQ_FanoutDemo
+
+RabbitMQ_ExchangeToExchangeDemo: https://github.com/luiscoco/RabbitMQ_ExchangeToExchangeDemo
+
+AWSAmazonMQ-RabbitMQ: https://github.com/luiscoco/AWSAmazonMQ-RabbitMQ
 
 ## 1.7. Kafka with Java
 
