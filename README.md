@@ -102,26 +102,24 @@ Scala_from_zero_to_hero: https://github.com/luiscoco/Scala_from_zero_to_hero
 
 ## 3.2. DataBricks
 
-DataBricks_Samples
+DataBricks_Samples: https://github.com/luiscoco/DataBricks_Samples
 
-DataBricks_Certificates-Training
+DataBricks_Certificates-Training: https://github.com/luiscoco/DataBricks_Certificates-Training
 
 
 ## 3.3. Spark with Scala
 
-Spark_with_IntelliJ_Community 
+Spark_with_IntelliJ_Community: https://github.com/luiscoco/Spark_with_IntelliJ_Community
 
-Spark_with_DataBricks 
+Spark_with_DataBricks: https://github.com/luiscoco/Spark_with_DataBricks
 
 Spark_with_VSCode_PendingToDo
 
-Spark-Shell_Running_in_Docker_sparkOfficial_image 
+Spark-Shell_Running_in_Docker_sparkOfficial_image: https://github.com/luiscoco/Spark-Shell_Running_in_Docker_sparkOfficial_image
 
-Spark_Running_in_Docker_with_bitnami_images
+Spark_Running_in_Docker_with_bitnami_images: https://github.com/luiscoco/Spark_Running_in_Docker_with_bitnami_images
 
-
-
-Spark_DataSources_JDBC_PostgreSQL 
+Spark_DataSources_JDBC_PostgreSQL: https://github.com/luiscoco/Spark_DataSources_JDBC_PostgreSQL
 
 ## Udemy-Apache-Spark-3-Big-Data-Essentials-in-Scala-Rock-the-JVM
 
