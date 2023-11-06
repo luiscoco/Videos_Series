@@ -1,5 +1,5 @@
 
-# 1. FRONT-END technologies: 
+# 1. FRONT-END technologies
 
 https://github.com/luiscoco/Videos_Series_Front_End
 
