@@ -3,7 +3,7 @@
 
 https://github.com/luiscoco/Videos_Series_Front_End
 
-[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+[![Video](https://img.youtube.com/vi/Nw4AZs1kLAs/minresdefault.jpg)](https://www.youtube.com/watch?v=Nw4AZs1kLAs)
 
 1.1. Angular
 
