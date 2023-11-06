@@ -27,6 +27,8 @@ https://github.com/luiscoco/Videos_Series_Front_End
 
 # 2. Back-End technologies
 
+https://github.com/luiscoco/Videos_Series_Back_End
+
 2.1. SQL Server
 
 2.2. Oracle SQL Developer
@@ -47,6 +49,8 @@ https://github.com/luiscoco/Videos_Series_Front_End
 
 # 3. Cloud technologies
 
+https://github.com/luiscoco/Videos_Series_Cloud-Computing
+
 3.1. Cloud comparison
 
 3.2. AWS
@@ -54,6 +58,8 @@ https://github.com/luiscoco/Videos_Series_Front_End
 3.4. Google Cloud Services
 
 # 4. Big data technologies
+
+https://github.com/luiscoco/Videos_Series_Big-Data
 
 4.1. Scala
 
@@ -66,6 +72,8 @@ https://github.com/luiscoco/Videos_Series_Front_End
 4.5. Spark with .NET
 
 # 5. DevOps
+
+https://github.com/luiscoco/Videos_Series_DevOps
 
 5.1. Docker
 
@@ -87,36 +95,8 @@ https://github.com/luiscoco/Videos_Series_Front_End
 
 5.10. TeamCity
 
--------------------------------------------------------------------------------------------------
 # 6. Connected Vehicles to cloud platforms
--------------------------------------------------------------------------------------------------
 
-## 6.1. Tesla
+https://github.com/luiscoco/Videos_Series_Connected-Vehicles-Platforms
 
-TeslaAPI: https://github.com/luiscoco/TeslaAPI
-
-Tesla_API_LCE_v1: https://github.com/luiscoco/Tesla_API_LCE_v1
-
-Tesla_API_LCE_v2: https://github.com/luiscoco/Tesla_API_LCE_v2
-
-Tesla_API_LCE_v3: https://github.com/luiscoco/Tesla_API_LCE_v3
-
-Tesla_API_LCE_v4: https://github.com/luiscoco/Tesla_API_LCE_v4
-
-AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position: 
-
-https://github.com/luiscoco/AngularWithGooglemaps_Sample5-Center-Map-In-TeslaCar-Position
-
-AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position: 
-
-https://github.com/luiscoco/AngularWithGooglemaps_Sample6-RealTime-TeslaCar-Position
-
-Tesla_Commands_console_app: 
-
-https://github.com/luiscoco/Tesla_Commands_console_app
-
-Tesla_GetVehicleDataAsync_console_app: 
-
-https://github.com/luiscoco/Tesla_GetVehicleDataAsync_console_app
-
-
+6.1. Tesla
