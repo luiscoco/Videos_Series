@@ -105,6 +105,18 @@ https://github.com/luiscoco/Videos_Series_DevOps
 
 5.10. TeamCity
 
+# 6. My Thesis
+
+6.1. Nueva generación de centrales termosolares con colectores solares lineales acoplados a ciclos supercríticos de potencia: https://oa.upm.es/44002/
+
+Thesis Download link: https://oa.upm.es/44002/1/LUIS_COCO_ENRIQUEZ.pdf
+
+6.2. Heat balance software
+
+6.3. My Thesis software
+
+
+
 # 6. Connected Vehicles to cloud platforms
 
 https://github.com/luiscoco/Videos_Series_Connected-Vehicles-Platforms
