@@ -3,6 +3,8 @@
 
 https://github.com/luiscoco/Videos_Series_Front_End
 
+[![Video](https://img.youtube.com/vi/jXnoFqcAkQA/maxresdefault.jpg)](https://www.youtube.com/watch?v=jXnoFqcAkQA)
+
 1.1. Angular
 
 1.2. React
