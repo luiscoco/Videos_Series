@@ -65,48 +65,27 @@ https://github.com/luiscoco/Videos_Series_Front_End
 
 4.5. Spark with .NET
 
--------------------------------------------------------------------------------------------------
 # 5. DevOps
--------------------------------------------------------------------------------------------------
 
-## 5.1. Docker
+5.1. Docker
 
-### 5.1.2. Docker Hub
+5.2. Kubernetes
 
-### 5.1.3. Docker Desktop
+5.3. Git
 
-### 5.1.4. Docker commands
+5.4. Terraform
 
-## 5.2. Kubernetes
+5.5. Azure DevOps
 
+5.6. Github Actions
 
-## 5.3. Git
+5.7. Gitlab
 
+5.8. Bitbucket
 
-## 5.4. Terraform
+5.9. Jenkins
 
-
-
-## 5.5. Azure DevOps
-
-
-
-## 5.6. Github Actions
-
-
-
-## 5.7. Gitlab
-
-
-
-## 5.8. Bitbucket
-
-
-## 5.9. Jenkins
-
-
-## 5.10. TeamCity
-
+5.10. TeamCity
 
 -------------------------------------------------------------------------------------------------
 # 6. Connected Vehicles to cloud platforms
